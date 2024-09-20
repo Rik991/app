@@ -11,7 +11,7 @@ nav li a:hover {
   font-size: 0.75rem;
 }
 
-@media screen and (min-width: 1199px) {
+@media screen and (min-width: 1050px) {
   .main-settings,
   .container-settings {
     padding-inline: 5rem;
