@@ -10,3 +10,8 @@ nav li a:hover {
 .small-text {
   font-size: 0.75rem;
 }
+
+.main-settings,
+.container-settings {
+  padding-inline: 5rem;
+}
