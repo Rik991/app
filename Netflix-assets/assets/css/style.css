@@ -1,0 +1,11 @@
+.logo {
+  height: 40px; /* Adatta l'altezza dell'immagine alla navbar */
+}
+
+nav li a:hover {
+  color: white;
+}
+
+.small-text {
+  font-size: 0.75rem;
+}
